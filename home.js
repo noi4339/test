@@ -3,4 +3,5 @@ console.log("sssssvvs")
 console.log("sssssvvs")
 console.log("kkkkkkkk")
 console.log("kkkkkkkk222")
-var a
+console.log("Nero")
+console.log("nero2")
