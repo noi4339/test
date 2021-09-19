@@ -5,3 +5,4 @@ console.log("kkkkkkkk")
 console.log("kkkkkkkk222")
 console.log("Nero")
 console.log("nero2")
+var a
